@@ -17,7 +17,7 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Mobile num</label>
+          <label>Mobile number</label>
         </div>
         <div class="form-control">
           <input type="password" required />
@@ -29,7 +29,7 @@
             <input type="checkbox" id="remember-me" />
             <label for="remember-me">Remember me</label>
           </div>
-          <a href="#">Need help?</a>
+          <a href="#">Need help yes?</a>
         </div>
       </form>
       <p>New to Netflix? <a href="#">Lets join up now</a></p>
